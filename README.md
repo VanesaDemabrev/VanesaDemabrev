@@ -2,8 +2,9 @@
 
 <!--
 **VanesaDemabrev/VanesaDemabrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img width="1213" height="680" alt="Vanesa" src="https://github.com/user-attachments/assets/2358e22a-7699-4e63-836a-066aa206097a" />
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
