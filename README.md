@@ -1,5 +1,9 @@
 ## Hola soy Vanesa👋
 <img src="Vanesa.png" alt="Vanesa Artista Digital" width="100%">
+### ⚙️ GitHub Analytics
+
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=VanesaDemabrev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=VanesaDemabrev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **VanesaDemabrev/VanesaDemabrev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width="1213" height="680" alt="Vanesa" src="https://github.com/user-attachments/assets/2358e22a-7699-4e63-836a-066aa206097a" />
